@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from apscheduler.schedulers.blocking import BlockingScheduler
 import time
 
-token = 'KNX6DjRMPlm9pECsG4UN78Qz2YfM3b1UXD2GPU50fGq'  # 填入line權杖
+
 today = datetime.date.today()
 ettday = "https://www.ettoday.net/news"
 
